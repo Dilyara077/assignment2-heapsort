@@ -1,4 +1,5 @@
 package algorithms;
+// Implementation of HeapSort algorithm
 
 public class HeapSort {
     public static long comparisons = 0;
